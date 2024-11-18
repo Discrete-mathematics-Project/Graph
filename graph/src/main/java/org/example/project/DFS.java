@@ -1,5 +1,7 @@
 package org.example.project;
 
 public class DFS {
-    www
+    public static void main(String[] args) {
+
+    }
 }
